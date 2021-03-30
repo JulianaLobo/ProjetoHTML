@@ -1,9 +1,9 @@
-alert("Alertaaaaaa");
+alert("Janela de Alerta");
 
 var nome = "Juliana"; //string
 var idade = 20; //number
 var salvo = true; //boolean
-var cidade; //indefined
+var cidade; //undefined
 
 /*
 Mostra no console a atribuição da variável
